@@ -1,0 +1,9 @@
+.flex {
+  display: flex;
+  gap: 1rem;
+}
+.value-box {
+  color: white;
+  border: 1px solid white;
+  padding: 1rem;
+}
